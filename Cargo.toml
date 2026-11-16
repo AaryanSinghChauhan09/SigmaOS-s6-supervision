@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-s6-supervision"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS s6-supervision component - init_system"
+
+[lib]
+name = "s6_supervision"
+path = "src/lib.rs"
