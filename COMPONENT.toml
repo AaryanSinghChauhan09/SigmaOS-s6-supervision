@@ -3,7 +3,7 @@ name = "SigmaOS-s6-supervision"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "s6-supervision component"
+description = "s6 supervision"
 upstream = []
 
 [contract]
